@@ -302,6 +302,8 @@ header.onova_header.onova_header_1 {
     justify-content: space-between;
     margin: 0 auto;
     display: flex;
+    height: 80px;
+
 }
 
 .onova_header_1 .header_menu_right .menu_avatar_group {
@@ -1755,7 +1757,7 @@ textarea.form_control {
 	Start onova_main section css
 */
 .single_slider {
-    padding: 335px 0 400px;
+    padding: 150px 0 200px;
     position: relative;
 }
 
