@@ -534,6 +534,7 @@ nav.main_menu {
 
 .sidenav_menu.active {
     left: 0;
+    z-index: 999;
 }
 
 .times_icon {
