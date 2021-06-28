@@ -731,6 +731,7 @@ nav.main_menu {
 
 .about_container .about_left img {
     width: 100%;
+    margin-top: 50px;
 }
 
 .about_container .about_right {
@@ -2007,8 +2008,9 @@ textarea.form_control {
     letter-spacing: 2px;
 }
 
-.onova_left_box .video_content h2 {
+.onova_left_box .video_content_text h2 {
     color: #fff;
+    text-align: center;
 }
 
 .video_content_img {
@@ -2054,7 +2056,7 @@ textarea.form_control {
 	Start onova_service section css
 */
 .onova_service_2 {
-    padding-top: 257px;
+    padding-top: 0px;
     margin-bottom: -200px;
 }
 
