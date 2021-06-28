@@ -521,7 +521,7 @@ nav.main_menu {
     margin-right: 20px;
 }
 .sidenav_menu {
-    overflow: hidden;
+    overflow-y: auto;
     width: 80%;
     height: 100%;
     position: fixed;
