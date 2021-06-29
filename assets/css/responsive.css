@@ -679,7 +679,7 @@
 	.call_video_box,
 	.call_video_box .call_action_img,
 	.video_image_area .video_img{
-		margin-bottom: 60px;
+		margin-bottom: 20px;
 	}
 	.header_container_1,
 	.header_container_2{
@@ -705,7 +705,7 @@
 	}
 	.categories_main {
 	    margin-top: 0;
-	    padding: 120px 15px;
+	    padding: 12px 15px;
 	}
 	.onova_left_box .about_img_2{
 		position: relative;
@@ -751,9 +751,11 @@
 	}
 	.onova_skill_area .skill_left, .onova_skill_area .skill_right {
 	    width: 100%;
+	    display: none;
 	}
 	.onova_skill_area .skill_left {
 	    padding: 40px;
+	    display: none;
 	}
 	.onova_skill_area .skill_left .skill_content h2 {
 		font-size: 30px;
@@ -896,7 +898,7 @@
         font-size: 30px;
     }
     .call_title h2, .theme_title h2 {
-        font-size: 20px;
+        font-size: 35px;
     }
     .mobile_menu {
         padding: 10px 10px;
@@ -925,7 +927,7 @@
 		height: 0px;
 	}
 	.single_slider {
-		padding: 160px 0;
+		padding: 16px 0;
 	}
 
 	.onova_main_2 .onova_main_content_2 h1 {
@@ -1036,7 +1038,7 @@
 		font-size: 42px;
 	}
 	.onova_btn {
-		padding: 15px 18px;
+		padding: 5px 8px;
 	}
 	.onova_about_3 .about_content_3 h2 {
 		font-size: 33px;
