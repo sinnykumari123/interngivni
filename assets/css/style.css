@@ -2126,6 +2126,7 @@ textarea.form_control {
 .onova_portfolio_home {
     position: relative;
     padding-top: 312px;
+    margin-bottom: 50px;
     padding-bottom: 20px;
     background-repeat: repeat;
     /* clip-path: polygon(0 10%, 100% 0%, 100% 100%, 0% 100%); */
@@ -2153,7 +2154,8 @@ textarea.form_control {
 
 .counterup_container {
     max-width: 1295px;
-    margin: 0 auto;
+    /*margin-top: -330px;*/
+    
     padding: 110px;
     border: 10px solid rgb(5, 116, 255);
     background: rgb(255, 255, 255);
@@ -2460,9 +2462,9 @@ textarea.form_control {
 }
 
 .onova_skill_area .skill_right {
-    background: url(../images/skill_1.png)no-repeat center;
+    background: url(../images/skill.jpeg)no-repeat center;
     background-size: cover;
-    height: 670px;
+    height: 850px;
 }
 
 /*
