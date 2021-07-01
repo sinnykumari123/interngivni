@@ -4120,6 +4120,7 @@ textarea.form_control {
 */
 .product_discription_details .product_img img {
     width: 100%;
+    margin-top: -100px;
 }
 
 .product_discription_details .product_details .product_title {
