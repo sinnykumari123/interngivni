@@ -531,6 +531,7 @@ nav.main_menu {
     padding: 50px 20px;
     background: rgb(5, 116, 255);
     transition: all .5s ease-in-out;
+    z-index: 999;                   
 }
 
 .sidenav_menu.active {
